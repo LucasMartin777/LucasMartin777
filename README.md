@@ -1,4 +1,4 @@
-<h2 align="center">👨🏻‍💻 Lucas Martin<br><br>Desenvolvedor Back-End<br><br>Me chamo Lucas Martin, sou formado em **Sistemas de Informação** e atualmente estou aprofundando meus estudos em **Java, Spring, AWS e MySQL**.  <br>Sou apaixonado por tecnologia e tenho como objetivo consolidar minha carreira como desenvolvedor, sempre buscando aprender novas ferramentas e boas práticas do mercado.</h2>
+<h2 align="center">👨🏻‍💻 Lucas Martin<br><br>Desenvolvedor Back-End<br><br>Me chamo Lucas Martin, sou formado em Sistemas de Informação e atualmente estou aprofundando meus estudos em Java, Spring, AWS e MySQL.  <br>Sou apaixonado por tecnologia e tenho como objetivo consolidar minha carreira como desenvolvedor, sempre buscando aprender novas ferramentas e boas práticas do mercado.</h2>
 
 ###
 
